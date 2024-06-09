@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StaticDatabase</string>
+    <string name="form">Form Pengisian Nilai</string>
+    <string name="data_mhs">Input Data Mahasiswa</string>
+    <string name="ip_nama">Nama</string>
+    <string name="ip_nim">Nim</string>
+    <string name="ip_jurusan">Jurusan</string>
+    <string name="nilai_mhs">Input Nilai Mahasiswa</string>
+    <string name="absen">Nilai Absen</string>
+    <string name="tugas">Nilai Tugas</string>
+    <string name="mid">Nilai Mid</string>
+    <string name="akhir">Nilai Final</string>
+    <string name="proses">PROSES</string>
+    <string name="register">REGISTRASI</string>
+    <string name="login">LOGIN</string>
+    <string name="password_label">Password</string>
+    <string name="username_label">Username</string>
+    <string name="login_label">LOGIN</string>
+    <string name="register_label">REGISTER</string>
+</resources>

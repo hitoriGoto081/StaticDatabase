@@ -2,6 +2,7 @@
     <string name="app_name">StaticDatabase</string>
     <string name="form">Form Pengisian Nilai</string>
     <string name="data_mhs">Input Data Mahasiswa</string>
+    <string name="exit">Exit</string>
     <string name="ip_nama">Nama</string>
     <string name="ip_nim">Nim</string>
     <string name="ip_jurusan">Jurusan</string>
